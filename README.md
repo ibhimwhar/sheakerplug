@@ -1,6 +1,6 @@
 # SneakerPlug 🏁
 
-Welcome to SneakerPlug, a sleek and responsive React + Vite powered web application that showcases premium sneakers with style. This project combines clean UI, animated transitions, shopping cart functionality, and a smooth checkout experience—perfect for modern e-commerce.
+Welcome to SneakerPlug, a sleek and responsive React + Vite powered web application that showcases premium sneakers with style. This project combines clean UI, animated transitions, shopping cart functionality, and a smooth checkout experience — perfect for modern e-commerce.
 
 ## 🚀 Features
 
